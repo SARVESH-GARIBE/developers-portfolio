@@ -14,6 +14,9 @@ The Hostel Management System is a simple web application built using HTML, CSS, 
 
 Since this is a front-end-only project, data is handled locally on the client side (no back-end or database). The application is responsive and user-friendly, making it a great showcase for basic web development skills.
 
+You can see my project through my repositiory 
+-https://github.com/SARVESH-GARIBE/HOSTEL-MANAGEMENT-SYSTEM.git
+
 **Features**:
 - Add and manage student information(Mess Facilities(individual based also))
 - Assign rooms to students
