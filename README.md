@@ -23,7 +23,7 @@ You can see my project through my repositiory
 
 **Technologies Used**: HTML,CSS,JavaScript
 
-Not only this I am still working on some new, big and good projects 
+Not only this I am still working on some new, big and good projects and i will definitly share my projects on my portfolio repo.
 
 ## 📫 Connect with me:
 - LinkedIn:   www.linkedin.com/in/sarveshgaribe014
